@@ -1,0 +1,138 @@
+/* Welcome */
+
+<div style="
+  border: 4px solid transparent;
+  border-image: linear-gradient(90deg, red, orange, yellow, green, blue, purple) 1;
+  padding: 20px;
+  border-radius: 12px;
+  background: #ffe0e0;
+  box-shadow: 0 0 12px rgba(0,0,0,0.12);
+">
+  <h3 style="
+    margin-top: 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.0em;
+    background: linear-gradient(90deg, red, orange, yellow, green, blue, purple);
+    -webkit-background-clip: text;
+    color: transparent;
+  ">
+    Welcome to My LEGO Showcase
+  </h3>
+
+  <p style="margin: 0; line-height: 1.7;">
+    A space where creativity, nostalgia, and imagination all come together. LEGO has always been more than plastic bricks to me; it’s a way to slow down, reset, and reconnect with the things that bring me joy. Every build is a blend of engineering, storytelling, and childhood wonder, and each set on this page represents a different part of what inspires me.
+  </p>
+
+  <p style="margin: 15px 0 0 0; line-height: 1.7;">
+    Some builds take me back to aviation history and the excitement of human innovation. Others remind me of classic TV moments I grew up with, or the magical worlds Disney brought to life. And then there are the sets that capture the spirit of travel — tiny scenes that spark memories of places I’ve been and places I still hope to go.
+  </p>
+
+  <p style="margin: 15px 0 0 0; line-height: 1.7;">
+    This showcase is more than a collection of models; it’s a reflection of the things that shape my creativity and give me a sense of peace. Below, I’m sharing why each of these builds stands out and what makes them meaningful to me.
+  </p>
+</div>
+
+/* Concorde */
+
+<div style="
+  border: 4px solid transparent;
+  border-image: linear-gradient(90deg, red, orange, yellow, green, blue, purple) 1;
+  padding: 18px;
+  border-radius: 10px;
+  background: #fff4b8;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+">
+  <h3 style="
+    margin-top: 0;
+    text-align: center;
+    font-weight: bold;
+    background: linear-gradient(90deg, red, orange, yellow, green, blue, purple);
+    -webkit-background-clip: text;
+    color: transparent;
+  ">
+    This set has 2,083 pieces
+  </h3>
+
+  <p style="margin: 0; line-height: 1.6;">
+    The LEGO Concorde is a masterpiece of design and engineering. This set captures the sleek, iconic shape of the world‑famous supersonic jet, complete with its delta wings, droop nose, and detailed landing gear. What I love most is how the build balances technical complexity with clean display aesthetics. It feels like assembling a piece of aviation history — a reminder of a time when innovation pushed the boundaries of what was possible. Whether you’re a fan of aircraft, engineering, or just beautiful design, the Concorde is a set that commands attention.
+  </p>
+</div>
+
+/* Krusty Burger */
+
+<div style="
+  border: 4px solid transparent;
+  border-image: linear-gradient(90deg, red, orange, yellow, green, blue, purple) 1;
+  padding: 18px;
+  border-radius: 10px;
+  background: #ffe9cc;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+">
+  <h3 style="
+    margin-top: 0;
+    text-align: center;
+    font-weight: bold;
+    background: linear-gradient(90deg, red, orange, yellow, green, blue, purple);
+    -webkit-background-clip: text;
+    color: transparent;
+  ">
+    This set has 1,635 pieces
+  </h3>
+
+  <p style="margin: 0; line-height: 1.6;">
+    This set is pure nostalgia. The Krusty Burger build brings Springfield’s most questionable fast‑food joint to life with humor and charm. From the bright signage to the interior kitchen details, every part of this set feels like a tiny slice of <em>The Simpsons</em> universe. The minifigures add personality, and the whole build has that quirky, slightly chaotic energy the show is known for. It’s one of those sets that makes you smile every time you look at it — especially if you grew up watching Homer, Bart, and the rest of the crew.
+  </p>
+</div>
+
+/* Hocus Pocus */
+
+<div style="
+  border: 4px solid transparent;
+  border-image: linear-gradient(90deg, red, orange, yellow, green, blue, purple) 1;
+  padding: 18px;
+  border-radius: 10px;
+  background: #f0e0ff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+">
+  <h3 style="
+    margin-top: 0;
+    text-align: center;
+    font-weight: bold;
+    background: linear-gradient(90deg, red, orange, yellow, green, blue, purple);
+    -webkit-background-clip: text;
+    color: transparent;
+  ">
+    This set has 2,316 pieces
+  </h3>
+
+  <p style="margin: 0; line-height: 1.6;">
+    This set is packed with atmosphere. Inspired by the Sanderson Sisters’ cottage from <em>Hocus Pocus</em>, it blends spooky charm with whimsical details. The crooked rooflines, potion bottles, spell books, pumpkins, and hidden surprises make the build feel alive. The purple creature perched on the chimney, the water wheel, and the eerie trees all add to the magical vibe. It’s a set that tells a story even when it’s just sitting on a shelf — perfect for Halloween displays or for anyone who loves Disney’s darker, more mystical side.
+  </p>
+</div>
+
+/* Travel Moments */
+
+<div style="
+  border: 4px solid transparent;
+  border-image: linear-gradient(90deg, red, orange, yellow, green, blue, purple) 1;
+  padding: 18px;
+  border-radius: 10px;
+  background: #ffd6d6;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+">
+  <h3 style="
+    margin-top: 0;
+    text-align: center;
+    font-weight: bold;
+    background: linear-gradient(90deg, red, orange, yellow, green, blue, purple);
+    -webkit-background-clip: text;
+    color: transparent;
+  ">
+    This set has 1,231 pieces
+  </h3>
+
+  <p style="margin: 0; line-height: 1.6;">
+    This set celebrates the joy of exploring the world, one brick at a time. Each miniature build represents a different destination, capturing landmarks and cultural details in a fun, compact way. What I enjoy most is how each tiny scene sparks a memory places I’ve been, places I want to go, and the feeling of adventure that comes with travel. It’s a small set with big personality, and it adds a colorful, global touch to any LEGO collection.
+  </p>
+</div>

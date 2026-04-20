@@ -1,0 +1,45 @@
+body {
+  background-color: #d6eaff;
+}
+
+#secondary {
+  background: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+.widget ul,
+.widget li {
+  list-style-type: disc !important;
+  margin-left: 20px !important;
+}
+
+ding: 12px 20px;
+  border: none;
+}
+
+/* Contact page (ID 11) – remove sidebar completely */
+.page-id-11 #secondary,
+.page-id-11 .widget-area {
+  display: none !important;
+}
+
+/* Make main content full width on Contact page */
+.page-id-11 #primary,
+.page-id-11 .content-area {
+  width: 100% !important;
+  max-width: 100% !important;
+  float: none !important;
+}
+
+/* If the layout uses flexbox */
+.page-id-11 .content-wrapper,
+.page-id-11 .site-content,
+.page-id-11 .content-area {
+  display: block !important;
+}
+
+
+
+
+

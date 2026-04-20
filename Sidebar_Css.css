@@ -1,0 +1,31 @@
+/* Sidebar CSS */
+
+<div style="
+  border: 4px solid transparent;
+  border-image: linear-gradient(90deg, red, orange, yellow, green, blue, purple) 1;
+  padding: 18px;
+  border-radius: 10px;
+  background: #fff9e6; /* LIGHT LEGO BACKGROUND */
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+">
+  <h3 style="
+    margin-top: 0;
+    text-align: center;
+    font-weight: bold;
+    background: linear-gradient(90deg, red, orange, yellow, green, blue, purple);
+    -webkit-background-clip: text;
+    color: transparent;
+  ">
+    Why I Love LEGOs?
+  </h3>
+
+  <ul style="padding-left: 20px; margin: 0; line-height: 1.6;">
+    <li>They help me unwind after stressful days.</li>
+    <li>They give my mind something calm and creative to focus on.</li>
+    <li>They pull me out of overthinking and into the present moment.</li>
+    <li>They bring me peace and quiet when life feels overwhelming.</li>
+    <li>They give me a sense of control when everything else feels chaotic.</li>
+    <li>They help me reset mentally by building something step-by-step.</li>
+    <li>They give me a positive, relaxing hobby to look forward to.</li>
+  </ul>
+</div>
