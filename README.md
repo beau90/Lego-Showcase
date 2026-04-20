@@ -16,7 +16,7 @@ A custom LEGO-themed website built using WordPress and PHP for my scripting lang
 ## 📸 Screenshots
 
 ### LEGO Shop
-![Homepage](Lego Shop.jpg)
+![Shop](Lego_Shop.jpg)
 
 ### LEGO Cart
-![Slider](Lego Cart.jpg)
+![Cart](Lego_Cart.jpg)
